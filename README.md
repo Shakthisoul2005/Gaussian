@@ -43,7 +43,7 @@ RegisterNumber: 24901278
 ```
 
 ## Output:
-c:\Users\SHAKTHI'S SOUL\Pictures\Screenshots\Screenshot 2024-11-18 184238.png
+![Screenshot 2024-11-18 184238](https://github.com/user-attachments/assets/52905fcf-7a19-4ebb-b5cc-b68ad22fcf02)
 
 
 ## Result:
