@@ -41,11 +41,11 @@ Developed by: shakthi vel v
 RegisterNumber: 24901278
 */
 ```
+      
+
 
 ## Output:
-![Screenshot 2024-11-18 184238](https://github.com/user-attachments/assets/52905fcf-7a19-4ebb-b5cc-b68ad22fcf02)
-
-
+Screenshot 2024-11-26 224429.png
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
