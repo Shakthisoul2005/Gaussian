@@ -45,7 +45,7 @@ RegisterNumber: 24901278
 
 
 ## Output:
-![Screenshot 2024-11-26 223950](https://github.com/user-attachments/assets/783cf5d2-d89f-4ead-8359-5d39714d3090)
+![Screenshot 2024-11-26 223950](https://github.com/user-attachments/assets/0cd9d788-18c2-49a9-a56a-5b069285ddf9)
 
 
 ## Result:
