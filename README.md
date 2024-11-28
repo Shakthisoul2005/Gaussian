@@ -47,6 +47,7 @@ RegisterNumber:
 
 ## Output:
 ![gaussian elimination]()![]](<Screenshot 2024-11-26 224429.png>)
+![Screenshot 2024-11-26 223950](https://github.com/user-attachments/assets/5dab4edb-8ce9-489c-8339-c0aa6f62db57)
 
 
 ## Result:
